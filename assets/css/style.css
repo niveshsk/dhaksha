@@ -429,6 +429,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px 0 30px 0;
   font-size: 24px;
   font-weight: 400;
+  font-style: italic
 }
 #hero .btn-get-started {
   font-family: "Roboto", sans-serif;
@@ -1141,8 +1142,8 @@ section {
 .team .member .member-info span {
   display: block;
   font-size: 13px;
-  font-weight: 400;
-  color: #aaaaaa;
+  font-weight: 800;
+  color: #ed2009;
   text-align: center;
 }
 .team .member .member-info p {
